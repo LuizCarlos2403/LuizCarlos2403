@@ -26,7 +26,7 @@ Atualmente desenvolvo projetos com **HTML**, **CSS**, **JavaScript** e **Python*
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Cale&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizCarlos2403&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
