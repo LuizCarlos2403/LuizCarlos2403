@@ -24,6 +24,13 @@ Atualmente desenvolvo projetos com **HTML**, **CSS**, **JavaScript** e **Python*
 
 ---
 
+### Linguagens mais usadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCarlos2403&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
+
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizCarlos2403&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -33,13 +40,12 @@ Atualmente desenvolvo projetos com **HTML**, **CSS**, **JavaScript** e **Python*
 
 ### Onde me encontrar
 <p align="center">
-  <!-- Substitua os links abaixo pelos seus -->
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/Luiz_Cale" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="40" height="40" style="fill:#E4405F;"/>
   </a>
 </p>
 
