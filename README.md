@@ -41,11 +41,11 @@ Atualmente desenvolvo projetos com **HTML**, **CSS**, **JavaScript**, **Python**
 
 ### Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-carlos-06aa3b335/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/Luiz_Cale" target="_blank">
+  <a href="https://www.instagram.com/Luiz_cale" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="40" height="40" style="fill:#E4405F;" alt="Instagram"/>
   </a>
 </p>
