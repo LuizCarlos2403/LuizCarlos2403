@@ -81,6 +81,3 @@ Tenho interesse em criar interfaces modernas, funcionais e intuitivas, explorand
   <b>Desenvolvedor Full Stack | HTML • CSS • JavaScript • Python • Git</b>
 </p>
 
-<p align="center">
-  <i>“O sucesso é a soma de pequenos esforços repetidos dia após dia.”</i>
-</p>
