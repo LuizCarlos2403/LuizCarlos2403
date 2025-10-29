@@ -48,11 +48,6 @@ Tenho interesse em criar interfaces modernas, funcionais e intuitivas, explorand
     alt="Estatísticas do GitHub" 
     height="165"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=LuizCarlos2403&theme=tokyonight&background=0d1117&border=79c0ff&ring=79c0ff&fire=ff9b00&currStreakLabel=ffffff&sideNums=79c0ff&currStreakNum=ff9b00" 
-    alt="Contribuições consecutivas" 
-    height="165"
-  />
 </p>
 
 <p align="center">
@@ -63,6 +58,7 @@ Tenho interesse em criar interfaces modernas, funcionais e intuitivas, explorand
 </p>
 
 ---
+
 
 ##  Onde me encontrar
 
