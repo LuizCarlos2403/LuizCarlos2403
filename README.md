@@ -17,7 +17,7 @@ Tenho grande interesse em Front-End e Back-End, sempre explorando novas tecnolog
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## Tecnologias que utilizo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML"/>
