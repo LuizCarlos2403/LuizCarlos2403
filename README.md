@@ -8,28 +8,28 @@
 
 ---
 
-##  Sobre mim
+## Sobre mim
 
 Sou estudante do curso **Informática para Internet**, apaixonado por tecnologia e desenvolvimento web.  
-Atualmente desenvolvo projetos com **HTML**, **CSS**, **JavaScript**, **Python** e **Git**, buscando sempre evoluir como desenvolvedor **Full Stack**.
+Atualmente trabalho com **HTML**, **CSS**, **JavaScript**, **Python** e **Git**, sempre buscando evoluir como desenvolvedor **Full Stack** e criar soluções modernas, rápidas e intuitivas.
 
-Tenho interesse em criar interfaces modernas, funcionais e intuitivas, explorando tanto o **Front-End** quanto o **Back-End**.
+Tenho grande interesse em Front-End e Back-End, sempre explorando novas tecnologias e boas práticas.
 
 ---
 
-##  Tecnologias que utilizo
+## 🛠️ Tecnologias que utilizo
 
-<p align="center" style="filter: brightness(1.1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
 </p>
 
 ---
 
-##  Linguagens mais usadas
+## Linguagens mais usadas
 
 <p align="center">
   <img 
@@ -40,13 +40,13 @@ Tenho interesse em criar interfaces modernas, funcionais e intuitivas, explorand
 
 ---
 
-##  Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=LuizCarlos2403&show_icons=true&theme=tokyonight&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0d1117&hide_border=false&border_radius=15" 
-    alt="Estatísticas do GitHub" 
     height="165"
+    alt="Estatísticas do GitHub" 
   />
 </p>
 
@@ -59,8 +59,7 @@ Tenho interesse em criar interfaces modernas, funcionais e intuitivas, explorand
 
 ---
 
-
-##  Onde me encontrar
+## Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-carlos-06aa3b335/" target="_blank" title="Meu LinkedIn">
@@ -68,12 +67,12 @@ Tenho interesse em criar interfaces modernas, funcionais e intuitivas, explorand
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/Luiz_cale" target="_blank" title="Meu Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="45" height="45" style="fill:#E4405F;" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="45" style="fill:#E4405F;" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b> Desenvolvedor Full Stack | HTML • CSS • JavaScript • Python • Git</b>
+  <b>Desenvolvedor Full Stack | HTML • CSS • JavaScript • Python • Git</b>
 </p>
