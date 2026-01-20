@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="120" alt="Logo do GitHub"/>
+  <img src="https://cdna.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="120" alt="Logo do GitHub"/>
 </p>
 
 <h1 align="center">Luiz Carlos Evaristo Leandro</h1>
@@ -8,28 +8,40 @@
 
 ---
 
-## Sobre mim
+##  Sobre mim
 
 Sou estudante do curso **Informática para Internet**, apaixonado por tecnologia e desenvolvimento web.  
-Atualmente trabalho com **HTML**, **CSS**, **JavaScript**, **Python** e **Git**, sempre buscando evoluir como desenvolvedor **Full Stack** e criar soluções modernas, rápidas e intuitivas.
+Atualmente trabalho com **HTML**, **CSS**, **JavaScript**, **Python**, **SQL** e **Git**, sempre buscando evoluir como desenvolvedor **Full Stack** e criar soluções modernas, rápidas e intuitivas.
 
-Tenho grande interesse em Front-End e Back-End, sempre explorando novas tecnologias e boas práticas.
+Tenho grande interesse em **Front-End** e **Back-End**, incluindo **banco de dados relacionais**, modelagem e integração com sistemas web.
 
 ---
 
-## Tecnologias que utilizo
+##  Tecnologias que utilizo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 </p>
 
 ---
 
-## Linguagens mais usadas
+##  Conhecimentos em Banco de Dados
+
+- Modelagem de dados  
+- SQL (CRUD)  
+- Relacionamentos e chaves (PK / FK)  
+- JOINs e consultas complexas  
+- Integração com aplicações Web  
+
+---
+
+## 📊 Linguagens mais usadas
 
 <p align="center">
   <img 
@@ -39,7 +51,7 @@ Tenho grande interesse em Front-End e Back-End, sempre explorando novas tecnolog
 
 ---
 
-## Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <img 
@@ -56,7 +68,7 @@ Tenho grande interesse em Front-End e Back-End, sempre explorando novas tecnolog
 
 ---
 
-## Onde me encontrar
+##  Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-carlos-06aa3b335/" target="_blank">
@@ -71,5 +83,5 @@ Tenho grande interesse em Front-End e Back-End, sempre explorando novas tecnolog
 ---
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | HTML • CSS • JavaScript • Python • Git</b>
+  <b>Desenvolvedor Full Stack | HTML • CSS • JavaScript • Python • SQL • Git</b>
 </p>
