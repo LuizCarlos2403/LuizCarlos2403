@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou estudante do curso **Informática para Internet**, apaixonado por tecnologia e desenvolvimento web.  
 Atualmente trabalho com **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **SQL** e **Git**, buscando evoluir como desenvolvedor **Full Stack** e criar soluções modernas, rápidas e intuitivas.
@@ -17,7 +17,7 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 
 ---
 
-## 🛠 Tecnologias que utilizo
+##  Tecnologias que utilizo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
@@ -32,7 +32,7 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 
 ---
 
-## 🗄 Conhecimentos em Banco de Dados
+##  Conhecimentos em Banco de Dados
 
 - Modelagem de Dados  
 - SQL (CRUD Completo)  
@@ -43,7 +43,7 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 
 ---
 
-## 📊 Linguagens mais usadas
+##  Linguagens mais usadas
 
 <p align="center">
   <img 
@@ -53,7 +53,7 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 
 ---
 
-## 📈 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <img 
@@ -70,7 +70,7 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 
 ---
 
-## 🌎 Onde me encontrar
+##  Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-carlos-06aa3b335/" target="_blank">
