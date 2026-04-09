@@ -8,16 +8,22 @@
 
 ---
 
-##  Sobre mim
+## 🚀 Sobre mim
 
-Sou estudante do curso **Informática para Internet**, apaixonado por tecnologia e desenvolvimento web.  
-Atualmente trabalho com **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **SQL** e **Git**, buscando evoluir como desenvolvedor **Full Stack** e criar soluções modernas, rápidas e intuitivas.
+Sou estudante de **Informática para Internet**, apaixonado por tecnologia e desenvolvimento de soluções web modernas.
 
-Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRUD completo e integração com banco de dados.
+Atualmente, desenvolvo aplicações utilizando **HTML, CSS, JavaScript, PHP, Python, SQL e Git**, sempre buscando aprimorar minhas habilidades como **Desenvolvedor Full Stack**.
+
+Tenho foco na criação de sistemas **rápidos, intuitivos e bem estruturados**, com forte interesse em:
+- Desenvolvimento Front-End e Back-End  
+- Construção e consumo de APIs  
+- Sistemas com autenticação de usuários  
+- Aplicações com CRUD completo  
+- Integração com bancos de dados  
 
 ---
 
-##  Tecnologias que utilizo
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
@@ -32,10 +38,10 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 
 ---
 
-##  Conhecimentos em Banco de Dados
+## 🗄️ Banco de Dados
 
 - Modelagem de Dados  
-- SQL (CRUD Completo)  
+- SQL (CRUD completo)  
 - Relacionamentos (PK / FK)  
 - JOINs e Subqueries  
 - Integração com PHP  
@@ -43,34 +49,34 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 
 ---
 
-##  Linguagens mais usadas
+## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCarlos2403&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" 
+  <img   
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCarlos2403&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"   
   />
 </p>
 
 ---
 
-##  Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LuizCarlos2403&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
+  <img   
+    src="https://github-readme-stats.vercel.app/api?username=LuizCarlos2403&show_icons=true&theme=tokyonight&hide_border=true"  
+    height="165"  
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizCarlos2403&theme=tokyonight" 
+  <img   
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizCarlos2403&theme=tokyonight"   
   />
 </p>
 
 ---
 
-##  Onde me encontrar
+## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-carlos-06aa3b335/" target="_blank">
@@ -85,5 +91,5 @@ Tenho grande interesse em **Front-End**, **Back-End**, APIs, autenticação, CRU
 ---
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | HTML • CSS • JavaScript • PHP • Python • SQL • Git</b>
+  <b>Desenvolvedor Full Stack focado em performance, boas práticas e experiência do usuário.</b>
 </p>
